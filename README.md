@@ -1,4 +1,4 @@
-![IMG_2282](https://user-images.githubusercontent.com/800930/134778642-e1404602-228b-457d-be4f-e7e92fe53b9b.jpg)
+![IMG_2282 2](https://user-images.githubusercontent.com/800930/134778737-f2cdbc99-12a2-4160-8267-93a67358471c.jpg)
 
 # Stacked Acrylic Case for Jabberwocky Dexterous Keyboard
 
