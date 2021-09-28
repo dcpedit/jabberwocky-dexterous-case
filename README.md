@@ -2,7 +2,7 @@
 
 # Stacked Acrylic Case for Jabberwocky Dexterous Keyboard
 
-These files are for laser printing a stacked acrylic case for the Jabberwocky Dexterous keyboard by [nopunin10did](https://github.com/nopunin10did) using 3mm thick acrylic sheets.  The switch plate layer was designed for the PCB version that I have, so a different PCB will require modifications to the orientation of the stablizer holes.  As-is, the case will fit the below PCB (please note stabalizer orientation)
+These files are for laser printing a stacked acrylic case for the Jabberwocky Dexterous keyboard from [nopunin10did](https://github.com/nopunin10did) using 3mm thick acrylic sheets.  The switch plate layer was designed for the PCB version that I have, so a different PCB will require modifications to the orientation of the stablizer holes.  As-is, the case will fit the below PCB (please note stabalizer orientation)
 
 ### PCB Top
 ![IMG_2826](https://user-images.githubusercontent.com/800930/134778481-5d98ce5f-8b61-4da7-9d06-009369b09fdf.jpg)
