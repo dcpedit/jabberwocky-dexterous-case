@@ -16,7 +16,7 @@ These files are for laser printing a stacked acrylic case for the Jabberwocky De
 | Type          | Amount    | Notes  |
 | ------------- |:---------:|:---------:|
 | 3mm Acrylic   | Varies    | Actual thickness ~2.8mm |
-| M2.5x5 Spacer | 8         | Top       |
+| M2.5x5 Spacer | 8         | Top ([link](https://www.mouser.com/ProductDetail/harwin/r25-1000502/?qs=vF78I%252bjhbY%252bV2HrK1OktkQ%3D%3D&countrycode=US&currencycode=USD))      |
 | M2.5x14 Screw | 8         | Spacer layers    |
 | M2.5x4 Screw  | 4         | Bottom (lower)   |
 | M2.5x16 Screw | 4         | Bottom (upper)   |
