@@ -15,7 +15,7 @@ Bottom
 
 | Type          | Amount    | Notes  |
 | ------------- |:---------:|:---------:|
-| 3mm Acrylic   | Varies    | Actual thickness ~2.8mm |
+| 3mm Acrylic   | 7 layers + 4 risers | Ideal thickness ~2.8mm |
 | M2.5x5 Spacer | 8         | Top       |
 | M2.5x14 Screw | 8         | Spacer layers    |
 | M2.5x4 Screw  | 4         | Bottom (lower)   |
